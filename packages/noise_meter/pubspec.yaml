@@ -9,7 +9,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  audio_streamer: ^2.3.0
+  audio_streamer:
+    git:
+      url: https://github.com/DanielIndeed/flutter-plugins/packages/audio_streamer/
 
 dev_dependencies:
   flutter_test:
