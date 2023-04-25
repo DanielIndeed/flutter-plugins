@@ -11,8 +11,7 @@ dependencies:
     sdk: flutter
   audio_streamer:
     git:
-      url: https://github.com/DanielIndeed/flutter-plugins/packages/audio_streamer/
-
+      url: https://github.com/DanielIndeed/flutter-plugins/tree/master/packages/audio_streamer
 dev_dependencies:
   flutter_test:
     sdk: flutter
