@@ -12,7 +12,7 @@ dependencies:
   audio_streamer:
     git:
       url: https://github.com/DanielIndeed/flutter-plugins/tree/master/packages/audio_streamer
-      path: 'packages/audio_stresmer/'
+      path: 'packages/audio_streamer/'
 
 dev_dependencies:
   flutter_test:
