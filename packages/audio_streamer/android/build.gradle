@@ -27,7 +27,6 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 33
-    namespace 'plugins.cachet.audio_streamer_example'
 
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
